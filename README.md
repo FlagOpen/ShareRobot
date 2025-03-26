@@ -7,7 +7,7 @@
 
 ![ee709e8b-6f05-428d-abff-2578914aeb0d](./images/ee709e8b-6f05-428d-abff-2578914aeb0d.png)
 
-For **planning**, we have 51,403 episodes and each with 30 frames. In the process of data generation, we design5 different templates for each of the 10 question types in RoboVQA [1]. In the process of data generation, werandomly select 2 templates of each question type to generate question-answer pairs for every instance. This process transforms 51,403 instances into 1,027,990 questionanswer pairs, with annotators monitoring data generation tomaintain the dataset’s integrity.
+For **planning**, we have 51,403 episodes and each with 30 frames. In the process of data generation, we design 5 different templates for each of the 10 question types in RoboVQA [1]. In the process of data generation, we randomly select 2 templates of each question type to generate question-answer pairs for every instance. This process transforms 51,403 instances into 1,027,990 question-answer pairs, with annotators monitoring data generation to maintain the dataset’s integrity.
 
 For **Affordance**, we have 6,522 images and each with affordance areas aligned with an instruction. 
 
@@ -142,7 +142,9 @@ For **Trajectory**, we have 6,870 images and each with at least 3 {x, y} coordin
 
 ### Affordance
 
-![2d94d985-d47e-4899-9760-c1cb8f19cd89](./images/2d94d985-d47e-4899-9760-c1cb8f19cd89.png)![a7817c0b-04b1-4a7c-9535-f9ff7801a689](./images/a7817c0b-04b1-4a7c-9535-f9ff7801a689.png)
+<!--![2d94d985-d47e-4899-9760-c1cb8f19cd89](./images/2d94d985-d47e-4899-9760-c1cb8f19cd89.png)![a7817c0b-04b1-4a7c-9535-f9ff7801a689](./images/a7817c0b-04b1-4a7c-9535-f9ff7801a689.png)-->
+<img src="./images/2d94d985-d47e-4899-9760-c1cb8f19cd89.png" width="300" />
+<img src="./images/a7817c0b-04b1-4a7c-9535-f9ff7801a689.png" width="300" />
 
 ```json
 {
