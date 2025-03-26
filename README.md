@@ -271,8 +271,8 @@ import os
 from PIL import Image, ImageDraw
 
 trajectory_final = '/path/to/your/trajectory_json'
-output_img_dir = '/path/to/your/original/images/dir'
-img_dir = '/path/to/your/visualzed/images/dir'
+img_dir = '/path/to/your/original/images/dir'
+output_img_dir = '/path/to/your/visualzed/images/dir'
 
 with open(trajectory_final, 'r') as f:
     data = json.load(f)
