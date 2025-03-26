@@ -143,8 +143,10 @@ For **Trajectory**, we have 6,870 images and each with at least 3 {x, y} coordin
 ### Affordance
 
 <!--![2d94d985-d47e-4899-9760-c1cb8f19cd89](./images/2d94d985-d47e-4899-9760-c1cb8f19cd89.png)![a7817c0b-04b1-4a7c-9535-f9ff7801a689](./images/a7817c0b-04b1-4a7c-9535-f9ff7801a689.png)-->
-<img src="./images/2d94d985-d47e-4899-9760-c1cb8f19cd89.png" width="300" />
-<img src="./images/a7817c0b-04b1-4a7c-9535-f9ff7801a689.png" width="300" />
+<div style="display: flex; gap: 10px;">
+  <img src="./images/2d94d985-d47e-4899-9760-c1cb8f19cd89.png" style="width: 300px;" />
+  <img src="./images/a7817c0b-04b1-4a7c-9535-f9ff7801a689.png" style="width: 300px;" />
+</div>
 
 ```json
 {
