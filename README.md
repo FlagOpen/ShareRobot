@@ -56,7 +56,7 @@ For **Trajectory**, we have 6,870 images and each with at least 3 {x, y} coordin
 ### Raw Dataset for Affordance
 
 | Raw Dataset                                                   | Number of Raws |
-| ------------------------------------------------------------- | -------------- |
+|:-------------------------------------------------------------:| -------------:|
 | utokyo_pr2_tabletop_manipulation_converted_externally_to_rlds | 24             |
 | utokyo_xarm_pick_and_place_converted_externally_to_rlds       | 23             |
 | ucsd_kitchen_dataset_converted_externally_to_rlds             | 10             |
@@ -83,7 +83,7 @@ For **Trajectory**, we have 6,870 images and each with at least 3 {x, y} coordin
 ### Raw Dataset for Trajectory
 
 | Raw Dataset                                                   | Number of Raws |
-| ------------------------------------------------------------- | -------------- |
+|:-------------------------------------------------------------:| -------------:|
 | utokyo_pr2_tabletop_manipulation_converted_externally_to_rlds | 35             |
 | utokyo_xarm_pick_and_place_converted_externally_to_rlds       | 36             |
 | ucsd_kitchen_dataset_converted_externally_to_rlds             | 19             |
