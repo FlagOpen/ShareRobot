@@ -110,7 +110,7 @@ For **Trajectory**, we have 6,870 images and each with at least 3 {x, y} coordin
 
 ### Planning
 
-![data-demo](images\data-demo.jpg)
+![data-demo](./images/data-demo.jpg)
 
 ```json
 {
@@ -121,7 +121,7 @@ For **Trajectory**, we have 6,870 images and each with at least 3 {x, y} coordin
         "conversations": [
             {
                 "from": "human",
-                "value": "<image 0-25> 
+                "value": "<image 0-25>
                 After <move the grasped banana towards the mug>, what's the most probable next event?"
             },
             {
