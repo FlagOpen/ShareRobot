@@ -121,8 +121,7 @@ For **Trajectory**, we have 6,870 images and each with at least 3 {x, y} coordin
         "conversations": [
             {
                 "from": "human",
-                "value": "<image 0-25>
-                After <move the grasped banana towards the mug>, what's the most probable next event?"
+                "value": "<image 0-25> After <move the grasped banana towards the mug>, what's the most probable next event?"
             },
             {
                 "from": "gpt",
@@ -130,7 +129,7 @@ For **Trajectory**, we have 6,870 images and each with at least 3 {x, y} coordin
             }
         ],
         "image": [
-            "/path/to/image_0",...,"/path/to/image_25"
+            "/path/to/image_0-25"
         ]
     }        
 }
