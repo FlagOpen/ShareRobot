@@ -228,7 +228,11 @@ with open(affordance_json, 'r') as f:
 
 ### Trajectory
 
-![5b923b31-dbbf-470f-af09-5125f5b91ab0](./images/5b923b31-dbbf-470f-af09-5125f5b91ab0.png)![1af4535a-acc3-4417-ae33-675f4301f560](./images/1af4535a-acc3-4417-ae33-675f4301f560.png)
+<!-- ![5b923b31-dbbf-470f-af09-5125f5b91ab0](./images/5b923b31-dbbf-470f-af09-5125f5b91ab0.png)![1af4535a-acc3-4417-ae33-675f4301f560](./images/1af4535a-acc3-4417-ae33-675f4301f560.png)-->
+<div style="display: flex; gap: 10px;">
+  <img src="./images/5b923b31-dbbf-470f-af09-5125f5b91ab0.png" style="width: 300px;" />
+  <img src="./images/1af4535a-acc3-4417-ae33-675f4301f560.png" style="width: 300px;" />
+</div>
 
 ```json
 {
