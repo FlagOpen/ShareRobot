@@ -2,6 +2,8 @@
 
 **ShareRobot**, a high-quality heterogeneous dataset that labels multi-dimensional information, including task planning, object affordance, and end-effector trajectory, effectively enhancing various robotic capabilities.
 
+**Down Link** https://huggingface.co/datasets/BAAI/ShareRobot
+
 
 ## Overview of ShareRobot
 
