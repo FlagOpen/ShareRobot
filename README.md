@@ -2,8 +2,8 @@
 
 **ShareRobot**, a high-quality heterogeneous dataset that labels multi-dimensional information, including task planning, object affordance, and end-effector trajectory, effectively enhancing various robotic capabilities.
 
+- **Project Website**: [RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete](https://superrobobrain.github.io/  "可选标题")
 - **Download Link**: [ShareRobot Dataset](https://huggingface.co/datasets/BAAI/ShareRobot "可选标题")
-- **Project Website**: [RoboBrain](https://superrobobrain.github.io/  "可选标题")
 
 ## Overview of ShareRobot
 
