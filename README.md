@@ -328,9 +328,7 @@ Powered by ShareRobot dataset, RoboBrain Model achieves stunning results.🌟
 
 **General capability**: In the OpenEQA benchmark, the scene understanding score surpasses general multimodal models such as GPT-4V. The RoboBrain model trained with ShareRobot did not sacrifice its general ability.
 
-<div style="display: flex; gap: 10px;">
-  <img src="./images/evaluation_planning.png" style="width: 400px;" />
-</div>
+![evaluation_planning](./images/evaluation_planning.png)
 <div style="display: flex; gap: 10px;">
   <img src="./images/evaluation_affordance.png" style="width: 400px;" />
   <img src="./images/evaluation_trajectory.png" style="width: 400px;" />
