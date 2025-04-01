@@ -318,9 +318,12 @@ with open(trajectory_final, 'r') as f:
 
 
 ## Evaluation
+Powered by ShareRobot dataset, RoboBrain Model achieves stunning results.🌟
 
-
-
+**Task planning capability**: The RoboBrain model trained on ShareRobot achieves a 30.2% improvement in task decomposition accuracy (BLEU-4 reached 55.05%), significantly better than existing methods;  
+**Affordance perception capability**: The average accuracy (AP) of object affordance area recognition is 27.1%, which is 14.6% higher than the baseline model.
+**Trajectory prediction capability**: End-effector trajectory prediction error reduced by 42.9% (DFD index decreased from 0.191 to 0.109);     
+**General capability**: In the OpenEQA benchmark, the scene understanding score surpasses general multimodal models such as GPT-4V. The RoboBrain model trained with ShareRobot did not sacrifice its general ability.
 
 
 ## Reference
