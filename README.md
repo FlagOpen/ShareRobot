@@ -17,7 +17,7 @@ For **Trajectory**, we have 6,870 images and each with at least 3 {x, y} coordin
 
 
 
-## Data Sources
+## Data Sources🌍
 
 ![a608d080-665a-4ab1-bd8f-d5bd121454da](./images/a608d080-665a-4ab1-bd8f-d5bd121454da.png)
 
@@ -317,7 +317,7 @@ with open(trajectory_final, 'r') as f:
 
 
 
-## Evaluation
+## Evaluation🚀
 Powered by ShareRobot dataset, RoboBrain Model achieves stunning results.🌟
 
 **Task planning capability**: The RoboBrain model trained on ShareRobot achieves a 30.2% improvement in task decomposition accuracy (BLEU-4 reached 55.05%), significantly better than existing methods;  
@@ -330,6 +330,8 @@ Powered by ShareRobot dataset, RoboBrain Model achieves stunning results.🌟
 
 <div style="display: flex; gap: 10px;">
   <img src="./images/evaluation_planning.png" style="width: 400px;" />
+</div>
+<div style="display: flex; gap: 10px;">
   <img src="./images/evaluation_affordance.png" style="width: 400px;" />
   <img src="./images/evaluation_trajectory.png" style="width: 400px;" />
 </div>
